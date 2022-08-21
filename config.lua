@@ -8,7 +8,7 @@ StartWorld = 1
 LoopWorld = true
 -- WEBHOOK CONFIG
 OwnerID = "554738226800361472"
-white_list_ban = "ipvu"
+white_list_ban = "IPVU"
 -- FARM CONFIG
 ModeSoil = false
 TrashRoot = false
