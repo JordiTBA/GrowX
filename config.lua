@@ -1,7 +1,7 @@
 -- BOTS CONFIG
 BOTS = {}
 BOTS["JACKLAW2"] = {
-    world = {"lkrlh"},
+    world = {"tnbfp"},
     webhook = "https://discord.com/api/webhooks/1006609686390374400/15kXJRicM_Rh4SDseNJVy7JJjF5Ura5jHyN7sDss8sGXJbAtPJFzRhR4sFv5yclmh-4y"
 }
 StartWorld = 1
@@ -12,16 +12,16 @@ white_list_ban = "IPVU"
 -- FARM CONFIG
 ModeSoil = false
 TrashRoot = false
-SaveSeedWorld = "abc"
+SaveSeedWorld = "testsave100"
 SaveRootWorld = "abc"
-SavePackWorld = "abc"
+SavePackWorld = "testsave200"
 ----------------------
-DoorIdFARM = "doorini"
-SaveDoorID = "abc"
+DoorIdFARM = "memeklu"
+SaveDoorID = "321"
 ----------------------
-patokanDropSeed = 5040
+patokanDropSeed = 4584
 patokanDropRoot = 8640
-patokanDropPack = 3004
+patokanDropPack = 880
 ----------------------
 type_block = "fg"
 FarmableSeedID = 4585
@@ -36,7 +36,7 @@ delayworld = 5000
 -- PACK CONFIG
 pack = "world_lock_10_pack"
 price_pack = 20000
-countBuy = 20
+countBuy = 1
 white_list = {[FarmableSeedID] = true, 
               [FarmableSeedID-1] = true, 
               [RootCuttingID] = true, 
