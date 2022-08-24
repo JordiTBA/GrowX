@@ -1,9 +1,19 @@
 -- // BOT CONFIG // --
-BOTS = {}
-BOTS["YOUR BOTNAME1"] = {
+BOTS = {
+    ["YOUR_BOTNAME1"] = {
     world = {"WORLD1","WORLD2","WORLD3"},
     webhook = "YOUR_WEBHOOK_LINK"
-}   
+    }, 
+    ["YOUR_BOTNAME2"] = {
+    world = {"WORLD1","WORLD2","WORLD3"},
+    webhook = "YOUR_WEBHOOK_LINK"
+    },
+    ["YOUR_BOTNAME3"] = {
+    world = {"WORLD1","WORLD2","WORLD3"},
+    webhook = "YOUR_WEBHOOK_LINK"
+    }    
+}
+
 StartWorld = 1
 LoopWorld = true
 
