@@ -12,4 +12,5 @@ ACCESS = {
     ["MUKASHI"] = 1,
     ["VAJQ"] = 1,
     ["MORTSTORE"] = 1,
+    ["LAMNANA"] = 1,
 }
