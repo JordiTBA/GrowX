@@ -1,22 +1,4 @@
-ACCESS = {
-    ["IPVU"] = 1,
-    ["BESPAM"] = 1,
-    ["DANIELTORN5"] = 1,
-    ["SACHSSS"] = 1,
-    ["1PABREZ1"] = 1,
-    ["REHANVSMOD2"] = 1,
-    ["NOYJ"] = 1,
-    ["SLUMMY"] = 1,
-    ["PEPIPEPI"] = 1,
-    ["20LEGEND04"] = 1,
-    ["MUKASHI"] = 1,
-    ["VAJQ"] = 1,
-    ["MORTSTORE"] = 1,
-    ["LAMNANA"] = 1,
-    ["SIMP4LAY"] = 1,
-    ["KANGSOIL"] = 1,
-    ["BKOL126"] = 1,
-    ["SONCEKIT7"] = 1,
-    ["DAIKENJO"] = 1,
-    ["MUJACHECKER"] = 1,
-}
+--[[
+    OBFUSCATOR USING CyberFuscator Alpha v0.1 by DailyBGL#5936 | https://discord.gg/FDyj7Kbx7z
+]]
+return(function(...)local C={"PnFHgnVovVgw";"uTGeuaGHgg==","PnhVuPUZ","lV99gK8GYjT=","PTKZVVP5HE==";"DUFdrtCKXE==";"VaGyPg==";"PnKeP0ClgVa=","uVVygPeWCPeoCVW=","CTG8vnVHvak=";"DUF/ZY5=";"CTGHvPVlVTFvujP=";"gPe0CVeu";"gaJAu0TOei==","DUF17L==","PaVWgPfYPnUAC0W=","NYfL7Ye4","uaFZvi==","PnG0vGeuPL==","PTVgvV9GPTa=","vnGHCUeAvPL=","lj9lCPNGuagLeE==";"YPSPl08mCPafrnf5CL==";"vV9YVg==";"uPFvVGePuU8G";"uVVogVeWvg==";"gaVuPTGe"}for g,a in ipairs({{1,27};{1;20},{21,27}})do while a[1]<a[2]do C[a[1]],C[a[2]],a[1],a[2]=C[a[2]],C[a[1]],a[1]+1,a[2]-1 end end local function g(g)return C[g-11534]end do local g=type local a={P=20,l=12,x=51;I=6;t=38;U=53;K=37;o=11;["0"]=3;j=35;L=48;["7"]=24,k=60;T=4;F=61,b=62,q=26,B=31,E=0,["1"]=39;G=5,O=50;H=14;W=8,n=52,S=33,y=10,c=42;J=45;N=29;["2"]=47;s=54;u=19,p=58,m=7;Y=22;["5"]=56;["+"]=63,D=23,v=18,e=13,Q=2,["9"]=1,r=27,g=16;h=49;a=36,["4"]=43,R=46;V=21;["/"]=44;d=41;f=57,["3"]=28;["6"]=34;C=17,z=40;["8"]=9,Z=25,X=30;M=59,w=55;A=15;i=32}local R=string.sub local Z=math.floor local Y=C local v=string.char local X=string.len local o=table.insert local f=table.concat for C=1,#Y,1 do local h=Y[C]if g(h)=="string"then local g=X(h)local e={}local B=1 local D=0 local Q=0 while B<=g do local C=R(h,B,B)local Y=a[C]if Y then D=D+Y*64^(3-Q)Q=Q+1 if Q==4 then Q=0 local C=Z(D/65536)local g=Z((D%65536)/256)local a=D%256 o(e,v(C,g,a))D=0 end elseif C=="="then o(e,v(Z(D/65536)))if B>=g or R(h,B+1,B+1)~="="then o(e,v(Z((D%65536)/256)))end break end B=B+1 end Y[C]=f(e)end end end return(function(C,R,Z,Y,v,X,o,a,e,B,Q,k,h,f,P,D)h,D,P,e,a,k,B,Q,f={},function(C)for g=1,#C,1 do h[C[g]]=h[C[g]]+1 end if Z then local a=Z(true)local R=v(a)R[g(11560)],R[g(11542)],R[g(11538)]=C,Q,function()return-3032285 end return a else return Y({},{[g(11542)]=Q;[g(11560)]=C,[g(11538)]=function()return-3032285 end})end end,function(C)h[C]=h[C]-1 if h[C]==0 then h[C],f[C]=nil,nil end end,function()B=B+1 h[B]=1 return B end,function(a,Z,Y,v)local N,D,k,J,O,B,i,A,y,I,d,U,f,G,M,K,t,F,s,n,m,q,S,r,T,j,p,e,P,x,l,L,o,u,V,b,H,h,c,E,Q,z,w while a do J=g(11557)P=g(11546)t=g(11537)j=g(11545)L=1 U=1 e=g(11554)f=Z O=g(11553)F=1 K=g(11556)p=g(11547)d=1 M=g(11552)A=1 k=1 E=1 c=g(11559)H=g(11543)w=1 G=1 l=g(11555)u=1 s=1 Q=1 S=g(11536)y=g(11548)V=g(11549)N=1 T=1 b=1 m=1 B=1 n=1 o=g(11551)x=g(11558)h=1 D=g(11539)r=g(11535)i=1 q=g(11541)I=1 z=g(11561)a={[o]=h,[e]=B;[D]=Q,[P]=k,[x]=E,[H]=F;[j]=N;[J]=T;[p]=n,[V]=L;[O]=s,[z]=I;[M]=b;[K]=w;[r]=m,[y]=u;[q]=A;[l]=d;[t]=U;[S]=i;[c]=G}o=g(11540)C[o]=a o={}a=C[g(11550)]end a=#v return R(o)end,function(C,g)local R=D(g)local Z=function(...)return a(C,{...},g,R)end return Z end,0,function(C)local g,a=1,C[1]while a do h[a],g=h[a]-1,1+g if 0==h[a]then h[a],f[a]=nil,nil end a=C[g]end end,{}return(k(3267171,{}))(R(o))end)(getfenv and getfenv()or _ENV,unpack or table[g(11544)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
