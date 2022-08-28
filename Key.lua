@@ -22,4 +22,5 @@ ACCESS = {
     ["PIYUU88"] = 1,
     ["HAMBUL15"] = 1,
     ["TRYTOSCAMNOW"] = 1,
+    ["WJKQL"] = 1,
 }
