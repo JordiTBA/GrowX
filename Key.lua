@@ -23,4 +23,5 @@ ACCESS = {
     ["HAMBUL15"] = 1,
     ["TRYTOSCAMNOW"] = 1,
     ["WJKQL"] = 1,
+    ["ZAMOSO10"] = 1,
 }
