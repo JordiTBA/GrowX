@@ -26,4 +26,5 @@ ACCESS = {
     ["ZAMOSO10"] = 1,
     ["UNAIRHEBAT"] = 1,
     ["TYOCORPBOT1"] = 1,
+    ["RZULON32"] = 1,
 }
