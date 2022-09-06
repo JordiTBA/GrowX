@@ -29,4 +29,5 @@ ACCESS = {
     ["RZULON32"] = 1,
     ["SEGSDUAR"] = 1,
     ["POHUAGAY"] = 1,
+    ["NDIKKY"] = 1,
 }
