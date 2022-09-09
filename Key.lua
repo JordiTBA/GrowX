@@ -30,4 +30,5 @@ ACCESS = {
     ["SEGSDUAR"] = 1,
     ["POHUAGAY"] = 1,
     ["NDIKKY"] = 1,
+    ["WAUUUU"] = 1,
 }
