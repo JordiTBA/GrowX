@@ -4,6 +4,7 @@ ACCESS = {
     ["DANIELTORN5"] = 1,
     ["SACHSSS"] = 1,
     ["1PABREZ1"] = 1,
+    ["67DIKETU"] = 1,
     ["REHANVSMOD2"] = 1,
     ["NOYJ"] = 1,
     ["SLUMMY"] = 1,
