@@ -31,4 +31,6 @@ ACCESS = {
     ["POHUAGAY"] = 1,
     ["NDIKKY"] = 1,
     ["WAUUUU"] = 1,
+    ["KUZSTORE"] = 1,
+    ["SHI300"] = 1,
 }
