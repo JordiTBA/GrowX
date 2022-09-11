@@ -22,6 +22,7 @@ ACCESS = {
     ["PIYUU88"] = 1,
     ["HAMBUL15"] = 1,
     ["TRYTOSCAMNOW"] = 1,
+    ["67DIKETU"] = 1,
     ["WJKQL"] = 1,
     ["ZAMOSO10"] = 1,
     ["UNAIRHEBAT"] = 1,
@@ -33,4 +34,5 @@ ACCESS = {
     ["WAUUUU"] = 1,
     ["KUZSTORE"] = 1,
     ["SHI300"] = 1,
-}
+    
+   }
